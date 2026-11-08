@@ -1,0 +1,45 @@
+{
+  "categories_compared": 4,
+  "top_by_engagement": "Electronics",
+  "top_by_rating": "OfficeProducts",
+  "lowest_by_rating": "Home&Kitchen",
+  "most_discounted": "Computers&Accessories",
+  "categories": [
+    {
+      "main_category": "Electronics",
+      "products": 490,
+      "avg_rating": 4.08,
+      "total_reviews": 14208406.0,
+      "avg_discount": 49.91,
+      "avg_price": 6225.87,
+      "review_share_pct": 60.0
+    },
+    {
+      "main_category": "Computers&Accessories",
+      "products": 375,
+      "avg_rating": 4.15,
+      "total_reviews": 6335177.0,
+      "avg_discount": 53.22,
+      "avg_price": 947.49,
+      "review_share_pct": 26.7
+    },
+    {
+      "main_category": "Home&Kitchen",
+      "products": 447,
+      "avg_rating": 4.04,
+      "total_reviews": 2990077.0,
+      "avg_discount": 40.17,
+      "avg_price": 2331.13,
+      "review_share_pct": 12.6
+    },
+    {
+      "main_category": "OfficeProducts",
+      "products": 31,
+      "avg_rating": 4.31,
+      "total_reviews": 149675.0,
+      "avg_discount": 12.35,
+      "avg_price": 301.58,
+      "review_share_pct": 0.6
+    }
+  ]
+}

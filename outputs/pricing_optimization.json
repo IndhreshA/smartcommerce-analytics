@@ -1,0 +1,69 @@
+{
+  "avg_discount_pct": 46.7,
+  "discount_vs_rating_corr": -0.162,
+  "discount_vs_reviews_corr": 0.003,
+  "highest_engagement_discount_band": "20-40%",
+  "discount_bands": [
+    {
+      "discount_band": "0-20%",
+      "products": 175,
+      "avg_rating": 4.17,
+      "median_reviews": 6736.0,
+      "avg_price": 3880.45
+    },
+    {
+      "discount_band": "20-40%",
+      "products": 329,
+      "avg_rating": 4.13,
+      "median_reviews": 7241.0,
+      "avg_price": 6658.48
+    },
+    {
+      "discount_band": "40-60%",
+      "products": 469,
+      "avg_rating": 4.07,
+      "median_reviews": 3025.0,
+      "avg_price": 2664.91
+    },
+    {
+      "discount_band": "60-80%",
+      "products": 326,
+      "avg_rating": 4.07,
+      "median_reviews": 4054.5,
+      "avg_price": 973.4
+    },
+    {
+      "discount_band": "80%+",
+      "products": 51,
+      "avg_rating": 3.97,
+      "median_reviews": 4426.0,
+      "avg_price": 505.82
+    }
+  ],
+  "price_bands": [
+    {
+      "price_band": "Budget",
+      "avg_rating": 4.06,
+      "median_reviews": 2931.0,
+      "avg_discount": 55.17
+    },
+    {
+      "price_band": "Mid",
+      "avg_rating": 4.1,
+      "median_reviews": 3626.0,
+      "avg_discount": 49.43
+    },
+    {
+      "price_band": "Upper-mid",
+      "avg_rating": 4.08,
+      "median_reviews": 7636.0,
+      "avg_discount": 45.46
+    },
+    {
+      "price_band": "Premium",
+      "avg_rating": 4.13,
+      "median_reviews": 5703.0,
+      "avg_discount": 36.43
+    }
+  ]
+}

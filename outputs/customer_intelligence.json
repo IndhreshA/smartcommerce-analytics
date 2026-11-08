@@ -1,0 +1,76 @@
+{
+  "products_analyzed": 1350,
+  "avg_rating": 4.09,
+  "median_reviews_per_product": 4738,
+  "rating_vs_reviews_corr": 0.097,
+  "satisfaction_segments_pct": {
+    "Low (<3.5)": 5.0,
+    "Average (3.5-4.0)": 32.0,
+    "Good (4.0-4.3)": 47.5,
+    "Excellent (4.3+)": 15.6
+  },
+  "top_rated_popular": [
+    {
+      "product_name": "Swiffer Instant Electric Water Heater Faucet Tap Home-Kitche",
+      "main_category": "Home&Kitchen",
+      "rating": 4.8,
+      "rating_count": 53803.0
+    },
+    {
+      "product_name": "Spigen EZ Fit Tempered Glass Screen Protector for iPhone 14 ",
+      "main_category": "Electronics",
+      "rating": 4.7,
+      "rating_count": 7779.0
+    },
+    {
+      "product_name": "Sony Bravia 164 cm (65 inches) 4K Ultra HD Smart LED Google ",
+      "main_category": "Electronics",
+      "rating": 4.7,
+      "rating_count": 5935.0
+    },
+    {
+      "product_name": "Redgear MP35 Speed-Type Gaming Mousepad (Black/Red)",
+      "main_category": "Computers&Accessories",
+      "rating": 4.6,
+      "rating_count": 33434.0
+    },
+    {
+      "product_name": "Spigen EZ Fit Tempered Glass Screen Protector Guard for iPho",
+      "main_category": "Electronics",
+      "rating": 4.6,
+      "rating_count": 26603.0
+    }
+  ],
+  "lowest_rated_popular": [
+    {
+      "product_name": "Wecool Nylon Braided Multifunction Fast Charging Cable For A",
+      "main_category": "Computers&Accessories",
+      "rating": 3.3,
+      "rating_count": 9792.0
+    },
+    {
+      "product_name": "LS LAPSTER Quality Assured Universal Silicone 15.6\" Keyboard",
+      "main_category": "Computers&Accessories",
+      "rating": 3.3,
+      "rating_count": 5692.0
+    },
+    {
+      "product_name": "PRO365 Indo Mocktails/Coffee Foamer/Cappuccino/Lemonade/Milk",
+      "main_category": "Home&Kitchen",
+      "rating": 3.3,
+      "rating_count": 8427.0
+    },
+    {
+      "product_name": "Zebronics ZEB-90HB USB Hub, 4 Ports, Pocket Sized, Plug & Pl",
+      "main_category": "Computers&Accessories",
+      "rating": 3.4,
+      "rating_count": 9385.0
+    },
+    {
+      "product_name": "Canon PIXMA MG2577s All-in-One Inkjet Colour Printer with 1 ",
+      "main_category": "Computers&Accessories",
+      "rating": 3.4,
+      "rating_count": 12185.0
+    }
+  ]
+}
